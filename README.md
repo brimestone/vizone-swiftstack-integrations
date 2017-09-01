@@ -1,4 +1,4 @@
-# vizone-swiftstack-integrations
+# VizOne + SwiftStack Integration
 Bash; Tool to reconfigure existing SwiftStack storage on a Viz One MAM
 
 
