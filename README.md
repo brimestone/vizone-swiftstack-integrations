@@ -1,7 +1,7 @@
 # VizOne + SwiftStack Integration
 
 
-Bash script to reconfigure existing SwiftStack storage on a Viz One MAM [ here ](https://github.com/brimestone/vizone-swiftstack-integrations/blob/master/update_swift_config.sh)
+Bash script to reconfigure existing SwiftStack storage on a Viz One MAM [ click here ](https://github.com/brimestone/vizone-swiftstack-integrations/blob/master/update_swift_config.sh)
 
 
 ![VizOne + SwiftStack](https://github.com/brimestone/vizone-swiftstack-integrations/blob/master/vizone_swiftstack.png)
